@@ -1,0 +1,26 @@
+.navbar {
+    background-color: rgb(92, 92, 195);
+    padding: 20px;
+}
+
+.navbar-left, .navbar-right {
+    display: flex;
+    align-items: center;
+}
+
+.navbar-brand {
+    font-size: x-large;
+    color: white;
+}
+
+.navbar-links {
+    font-size: medium;
+    color: white;
+    text-decoration: none;
+    margin-left: 20px;
+}
+
+.navbar {
+    display: flex;
+    justify-content: start;
+}
