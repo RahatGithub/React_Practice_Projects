@@ -1,5 +1,5 @@
 .navbar {
-    background-color: rgb(92, 92, 195);
+    background-color: gold;
     padding: 20px;
 }
 
@@ -10,12 +10,12 @@
 
 .navbar-brand {
     font-size: x-large;
-    color: white;
+    color: #301934;
 }
 
 .navbar-links {
     font-size: medium;
-    color: white;
+    color: #301934;
     text-decoration: none;
     margin-left: 20px;
 }
